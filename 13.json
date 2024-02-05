@@ -1,1 +1,55 @@
-{"name": "Stark Pixel ape #13", "image": "https://gateway.pinata.cloud/ipfs/QmU88otpncVX2pdbDvcwwpvSpWvopeNgaP9JxngfVk2kcw", "attributes": [{"trait_type": "background", "value": "Blood_Red"}, {"trait_type": "fur", "value": "Yellow Bot"}, {"trait_type": "face", "value": "Shocked"}, {"trait_type": "clothes", "value": "Hoodie_Blue"}, {"trait_type": "head", "value": "Yellow Shades"}]}
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "T-Shirt Yellow"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Natural"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drool"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headband White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Thug"
+        },
+        {
+            "trait_type": "Outfit Tier",
+            "value": 0
+        },
+        {
+            "trait_type": "Head Tier",
+            "value": 1
+        },
+        {
+            "trait_type": "Secondary Background",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "family": "Stark Fox Club",
+        "name": "Stark Fox Club"
+    },
+    "description": "The Stark Fox Club, an independent organization of the most fabulously extraordinary foxes on the StarkNet.",
+    "name": "Stark Fox #13",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "url": "https://famousfoxes.com/hd/5104.png"
+            }
+        ]
+    },
+    "image": "https://famousfoxes.com/hd/5104.png"
+}
