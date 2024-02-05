@@ -1,1 +1,18 @@
-{"name": "Stark Pixel ape #18", "image": "https://gateway.pinata.cloud/ipfs/QmNtVbzbxgxhjMSdEmM59iGYHJ3wJgx5G4UA6LjTpzAXaC", "attributes": [{"trait_type": "background", "value": "Gator Gradient"}, {"trait_type": "fur", "value": "Zombie"}, {"trait_type": "face", "value": "Ape Noir"}, {"trait_type": "clothes", "value": "Blade Runner"}, {"trait_type": "head", "value": "Bear Buddy"}]}
+{
+    "attributes": [{"trait_type": "Background", "value": "Purple"}, {"trait_type": "Outfit", "value": "Astronaut Orange"}, {"trait_type": "Skin", "value": "Natural"}, {"trait_type": "Mouth", "value": "Blep"}, {"trait_type": "Head", "value": "Bucket Hat Ivory"}, {"trait_type": "Eyes", "value": "Mutated"}, {"trait_type": "Head Tier", "value": 2}, {"trait_type": "Outfit Tier", "value": 2}, {"trait_type": "3D", "value": "Unlocked"}],
+    "collection": {
+        "family": "Stark Fox Club",
+        "name": "Stark Fox Club"
+    },
+    "description": "The Stark Fox Club, an independent organization of the most fabulously extraordinary foxes on the StarkNet.",
+    "name": "Stark Fox #18",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "url": "https://famousfoxes.com/hd/2475.png"
+            }
+        ]
+    },
+    "image": "https://famousfoxes.com/hd/2475.png"
+}
