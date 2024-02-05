@@ -1,1 +1,55 @@
-{"name": "Stark Pixel ape #14", "image": "https://gateway.pinata.cloud/ipfs/Qmbp9Dkbsy1igGUFBXnaqPVR1gw7NWLBGroT5hux8sZ39Q", "attributes": [{"trait_type": "background", "value": "Blue_Standard"}, {"trait_type": "fur", "value": "Purple Pop Tart"}, {"trait_type": "face", "value": "Platinum Grill"}, {"trait_type": "clothes", "value": "None"}, {"trait_type": "head", "value": "Red Shades"}]}
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Amaranth"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Hoodie Pink"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Natural"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Viking Dark"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Outfit Tier",
+            "value": 1
+        },
+        {
+            "trait_type": "Head Tier",
+            "value": 1
+        },
+        {
+            "trait_type": "Secondary Background",
+            "value": "Persimmon"
+        }
+    ],
+    "collection": {
+        "family": "Stark Fox Club",
+        "name": "Stark Fox Club"
+    },
+    "description": "The Stark Fox Club, an independent organization of the most fabulously extraordinary foxes on the StarkNet.",
+    "name": "Stark Fox #14",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "url": "https://famousfoxes.com/hd/6103.png"
+            }
+        ]
+    },
+    "image": "https://famousfoxes.com/hd/6103.png"
+}
