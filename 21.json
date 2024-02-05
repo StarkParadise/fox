@@ -1,5 +1,46 @@
 {
-    "attributes": [{"trait_type": "Background", "value": "Straw"}, {"trait_type": "Outfit", "value": "Shirt School"}, {"trait_type": "Skin", "value": "Natural"}, {"trait_type": "Mouth", "value": "Stache"}, {"trait_type": "Head", "value": "COPE"}, {"trait_type": "Eyes", "value": "Thug"}, {"trait_type": "Outfit Tier", "value": 2}, {"trait_type": "Head Tier", "value": 2}, {"trait_type": "Secondary Background", "value": "Orange"}, {"trait_type": "3D", "value": "Unlocked"}],
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Shirt School"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Natural"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Fangs"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Monster Trainer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scar"
+        },
+        {
+            "trait_type": "Outfit Tier",
+            "value": 2
+        },
+        {
+            "trait_type": "Head Tier",
+            "value": 2
+        },
+        {
+            "trait_type": "Secondary Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Tail",
+            "value": true
+        }
+    ],
     "collection": {
         "family": "Stark Fox Club",
         "name": "Stark Fox Club"
@@ -10,9 +51,9 @@
         "files": [
             {
                 "type": "image/png",
-                "url": "https://famousfoxes.com/hd/3566.png"
+                "url": "https://famousfoxes.com/hd/4965.png"
             }
         ]
     },
-    "image": "https://famousfoxes.com/hd/3566.png"
+    "image": "https://famousfoxes.com/hd/4965.png"
 }
