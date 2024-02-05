@@ -1,1 +1,59 @@
-{"name": "Stark Pixel ape #17", "image": "https://gateway.pinata.cloud/ipfs/QmeGxZm85HyFu5eJZBzs4CBrg3Ux5dZ8ZfdWp5rnz3MPKw", "attributes": [{"trait_type": "background", "value": "Fresh Cut Grass"}, {"trait_type": "fur", "value": "Blue"}, {"trait_type": "face", "value": "Pipe Smokin"}, {"trait_type": "clothes", "value": "Green Hive Member"}, {"trait_type": "head", "value": "Robin Yellow"}]}
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Shirt Camo"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Natural"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Astronaut"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blank"
+        },
+        {
+            "trait_type": "Outfit Tier",
+            "value": 3
+        },
+        {
+            "trait_type": "Head Tier",
+            "value": 3
+        },
+        {
+            "trait_type": "Tail",
+            "value": false
+        },
+        {
+            "trait_type": "Secondary Background",
+            "value": "Toxic"
+        }
+    ],
+    "collection": {
+        "family": "Stark Fox Club",
+        "name": "Stark Fox Club"
+    },
+    "description": "The Stark Fox Club, an independent organization of the most fabulously extraordinary foxes on the StarkNet.",
+    "name": "Stark Fox #17",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "url": "https://famousfoxes.com/hd/3330.png"
+            }
+        ]
+    },
+    "image": "https://famousfoxes.com/hd/3330.png"
+}
