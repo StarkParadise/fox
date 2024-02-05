@@ -1,1 +1,18 @@
-{"name": "Stark Pixel ape #21", "image": "https://gateway.pinata.cloud/ipfs/QmU7UU7oGDz4ketHPZmusewKJ6NHusN8jLmBf3q4y2oNNB", "attributes": [{"trait_type": "background", "value": "Cool Green"}, {"trait_type": "fur", "value": "Cherry Swirl"}, {"trait_type": "face", "value": "Gold Grill"}, {"trait_type": "clothes", "value": "Fast_Food_Uniform"}, {"trait_type": "head", "value": "Panda Buddy"}]}
+{
+    "attributes": [{"trait_type": "Background", "value": "Straw"}, {"trait_type": "Outfit", "value": "Shirt School"}, {"trait_type": "Skin", "value": "Natural"}, {"trait_type": "Mouth", "value": "Stache"}, {"trait_type": "Head", "value": "COPE"}, {"trait_type": "Eyes", "value": "Thug"}, {"trait_type": "Outfit Tier", "value": 2}, {"trait_type": "Head Tier", "value": 2}, {"trait_type": "Secondary Background", "value": "Orange"}, {"trait_type": "3D", "value": "Unlocked"}],
+    "collection": {
+        "family": "Stark Fox Club",
+        "name": "Stark Fox Club"
+    },
+    "description": "The Stark Fox Club, an independent organization of the most fabulously extraordinary foxes on the StarkNet.",
+    "name": "Stark Fox #21",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "url": "https://famousfoxes.com/hd/3566.png"
+            }
+        ]
+    },
+    "image": "https://famousfoxes.com/hd/3566.png"
+}
